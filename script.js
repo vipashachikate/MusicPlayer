@@ -9,20 +9,20 @@ const songs = [
   {
     img : "img",
     musical : "music",
-    artist : "THE ARTIST",
-    title : "THE SONG NAME",
+    artist : "AHJAY",
+    title : "HAPPY",
   },
   {
     img : "img1",
     musical : "music1",
-    artist : "THE ARTIST1",
-    title : "THE SONG NAME1",
+    artist : "AHJAY",
+    title : "GETTING READY",
   },
   {
     img : "img2",
     musical : "music2",
-    artist : "THE ARTIST2",
-    title : "THE SONG NAME2",
+    artist : "AHJAY",
+    title : "TINSEL AND MISTLETOE",
   }
 ];
 let isPlaying = false;
